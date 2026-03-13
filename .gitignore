@@ -1,0 +1,5 @@
+.svn/
+AgentBasedOnSpringAI-Peng/
+node_modules/
+dist/
+*.log

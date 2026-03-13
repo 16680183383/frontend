@@ -1,0 +1,1 @@
+Per-feature loading handled in GraphPage via reactive loading flags and disabled buttons. Pending: replicate similar pattern in other module pages if needed.
